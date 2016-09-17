@@ -1,0 +1,11 @@
+body{
+  text-align:center;
+   background: #A00008;
+}
+button{
+  margin-top: 60px;
+  background: #0000FF;
+}
+.icon{
+  font-size: 60px;
+}
